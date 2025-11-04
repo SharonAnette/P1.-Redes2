@@ -20,7 +20,6 @@ Ambos operan en modo bloqueante (`setblocking(True)`), garantizando que cada ope
 ---
 
 ## Ejecución
-
-### Servidor
 ```python
 python servidor.py
+python cliente.py
